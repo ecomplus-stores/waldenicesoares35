@@ -1,18 +1,21 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Aproveite nossos descontos de até 50%",
+    "link": "/promotion",
+    "background": "#f90505",
+    "color": "#f8f4f4"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "LOJA DO MAQUIADOR NO VAREJO E ATACADO",
+        "link": "SOMOS UMA LOJA REPLETA EM VARIEDADES DE PRODUTOS DE MAQUIAGEM E ESMALTERIA."
       },
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
-      }
+      },
+      {}
     ],
     "phone_wpp": true,
     "socials": true
