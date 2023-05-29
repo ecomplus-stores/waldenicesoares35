@@ -32,7 +32,7 @@
     "mastercard": true,
     "elo": true,
     "amex": true,
-    "hipercard": true,
+    "hipercard": false,
     "boleto": true
   },
   "credits": ""
