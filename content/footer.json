@@ -28,7 +28,7 @@
     "elo": true,
     "amex": true,
     "hipercard": false,
-    "boleto": true
+    "boleto": false
   },
   "credits": ""
 }
