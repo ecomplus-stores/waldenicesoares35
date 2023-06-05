@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media(min-width: 767px) {\n.shipping-calculator__option .shipping-line {\n  max-width: 50%\n\n}\n.shipping-calculator__option small {\n  display: flex;\n  justify-content: flex-end;\n  max-width: 50%;\n  line-height: 2\n}",
   "html_head": "",
   "html_body": ""
 }
