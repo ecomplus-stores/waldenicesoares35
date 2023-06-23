@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width: 767px) {\n.shipping-calculator__option .shipping-line {\n  max-width: 50%\n\n}\n.shipping-calculator__option small {\n  display: flex;\n  justify-content: flex-end;\n  max-width: 50%;\n  line-height: 2\n}\n.header {\nbackground: #f90505 !important;;\n}\n \n.footer {\nbackground: #f90505 !important;;\n}",
+  "css": "@media(min-width: 767px) {\n.shipping-calculator__option .shipping-line {\n  max-width: 50%\n\n}\n.shipping-calculator__option small {\n  display: flex;\n  justify-content: flex-end;\n  max-width: 50%;\n  line-height: 2\n}\n.header {\nbackground: #f90505 !important;;\n} \n.footer {\nbackground: #f90505 !important;;\n}\n.top-bar {\nbackground: #f90505 !important;;\n}\n ",
   "html_head": "",
   "html_body": ""
 }
