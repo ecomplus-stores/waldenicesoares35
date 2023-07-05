@@ -1208,6 +1208,12 @@
     </url>
   
     <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/batom-liquido---stay-fix</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/maquiagem</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
