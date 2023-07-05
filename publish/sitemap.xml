@@ -416,12 +416,6 @@
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/corretivo-miamake</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/unhas-posticas---sabrina-sato</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -471,12 +465,6 @@
   
     <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/corretivo-liquido-ludurana</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/corretivo-flawless-ruby-rose-4ml</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1167,6 +1155,12 @@
   
     <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/base-liquida-matte---lebruce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/corretivo-liquido---miamake</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
