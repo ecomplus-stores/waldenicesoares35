@@ -1220,6 +1220,12 @@
     </url>
   
     <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/dafu-unha-postica-adesivo-dupla-24pcs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/maquiagem</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1298,13 +1304,13 @@
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/pages/entrega</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/pages/contato</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
