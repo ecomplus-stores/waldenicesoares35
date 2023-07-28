@@ -3,9 +3,17 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/_banner-loja-do-maquiador-1-1-.png",
-      "mobile_img": "/img/uploads/_banner-loja-do-maquiador-480-300-px-1-.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/_banner-loja-do-maquiador-1-1-.png",
+          "mobile_img": "/img/uploads/_banner-loja-do-maquiador-480-300-px-1-.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
