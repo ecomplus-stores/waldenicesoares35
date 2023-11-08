@@ -32,6 +32,18 @@
       "limit": 12,
       "page": 1,
       "sort": "news"
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "642450b04bd2e929c1b7678a:categories:MAQUIAGEM:/maquiagem",
+        "646d2745a0e875411e9a86f3:categories:ESMALTERIA:/esmalteria",
+        "6542adb92cd6b6595994121c:categories:CABELO:/cabelo"
+      ],
+      "sort": "sales"
     }
   ]
 }
