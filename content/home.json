@@ -34,6 +34,19 @@
       "sort": "news"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/grid-loja-do-maquiador-3-2-.png",
+          "link": "/maquiagem"
+        },
+        {
+          "img": "/img/uploads/grid-loja-do-maquiador-2-1-.png",
+          "link": "/skin-care"
+        }
+      ]
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 8,
