@@ -17,7 +17,9 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/make-ate-10?MAKE  ATÉ  R$ 10"
+    ],
     "random": 12,
     "full_width": true
   },
