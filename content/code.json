@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width: 767px) {\n.shipping-calculator__option .shipping-line\n  max-width: 50%\n}\n  \n.shipping-calculator__option small {\n  display: flex;\n  justify-content: flex-end;\n  max-width: 50%;\n  line-height: 2\n}\n  \n.footer {\nbackground: #F90505 !important;\n}\n.ecom-credits {\n  background: #F90505 !important;\n}\n.footer py-3 py-lg-4 py-xl-5 {\nbackground: #F90505 !important;\n}\n.header__nav .d-inline-block {\n  margin-right: 5px; \n}\n",
+  "css": "@media(min-width: 767px) {\n.shipping-calculator__option .shipping-line\n  max-width: 50%\n}\n  \n.shipping-calculator__option small {\n  display: flex;\n  justify-content: flex-end;\n  max-width: 50%;\n  line-height: 2\n}\n  \n.footer {\nbackground: #F90505 !important;\n}\n.ecom-credits {\n  background: #F90505 !important;\n}\n.footer py-3 py-lg-4 py-xl-5 {\nbackground: #F90505 !important;\n}\n.header__nav .d-inline-block {\n  margin-right: 7px; \n}\n",
   "html_head": "",
   "html_body": "<a href=\"https://wa.me/5591987460295?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
