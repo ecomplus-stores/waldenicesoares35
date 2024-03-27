@@ -10400,6 +10400,12 @@
     </url>
   
     <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/blush-ludurana-cor-04</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/maquiagem</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -10580,6 +10586,12 @@
     </url>
   
     <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/pages/condicoes-de-entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -10593,12 +10605,6 @@
   
     <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/pages/condicoes-de-entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -10634,13 +10640,13 @@
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/admin/index</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/app/index</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
