@@ -12866,6 +12866,18 @@
     </url>
   
     <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/box-c-4---oleo-de-cenoura-farmax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lojadomaquiadorbelem.com.br/box-c-6---lixa-banana-180240-suntrust</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lojadomaquiadorbelem.com.br/pages/condicoes-de-entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -12878,13 +12890,13 @@
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/pages/pagamentos</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/pages/privacidade</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -12920,13 +12932,13 @@
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/admin/index</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.lojadomaquiadorbelem.com.br/app/index</loc>
+      <loc>https://www.lojadomaquiadorbelem.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
