@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b921db9231fc204e747d4e1686f57790.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a30f9d49d6fc586789dcb76a18073df3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ef1b433b90fd714383cefd5f8041d297.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ae9129ae387da7f2f27fa0b6e6271089.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8493f69ee20fca0a9c72267582b21916.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja do Maquiador Profissional",
+  "short_name": "LOJA DO MAQUIADOR PROFISSIONAL",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "ESMALTERIA DO MAQUIADOR PROFISSIONAL",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
